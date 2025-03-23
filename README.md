@@ -15,6 +15,7 @@ A modern, responsive web application that allows users to convert multiple image
 - **PDF Customization** - Choose page orientation, size, and filename 
 - **No Server Uploads** - All processing happens in your browser for complete privacy
 - **Responsive Design** - Works perfectly on desktop, tablet, and mobile devices
+- **Custom Compression** - Compress the size of pdf as you need
 
 ## 🚀 Demo
 
