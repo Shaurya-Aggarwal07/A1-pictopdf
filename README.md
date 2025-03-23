@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4cf7a7a3-20b3-44be-9770-196dfe7237f6)# Pic to PDF Converter
+ Pic to PDF Converter
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
