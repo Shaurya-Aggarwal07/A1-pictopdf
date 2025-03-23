@@ -31,15 +31,3 @@ Live demo: https://pic2pdf.netlify.app/
 - **html2canvas** - Screenshots parts of the webpage for PDF generation
 - **file-saver** - Simplified way to save files on the client-side
 
-## 📋 Prerequisites
-
-- Node.js (v16.x or later)
-- npm (v7.x or later) or yarn
-
-## 🔧 Installation and Setup
-
-1. **Clone the repository**
-
-```bash
-git clone https://github.com/yourusername/images-to-pdf-converter.git
-cd images-to-pdf-converter
